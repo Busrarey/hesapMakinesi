@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+c:\users\v\documents\visual studio 2015\Projects\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb
